@@ -1,6 +1,6 @@
-Database tools Yii2.
+<h2>Database tools Yii2.</h2>
 
-usage:
+<strong>usage:</strong>
 
 <p>DBModForm::widget([</p>
 <p>  'columns' => $columns,</p>
