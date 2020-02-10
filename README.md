@@ -14,9 +14,9 @@ Database tools Yii2.
 
 usage:
 
-<p><?= DBModForm::widget([</p>
+<p>DBModForm::widget([</p>
 <p>  'columns' => $columns,</p>
 <p>  'model' => $model,</p>
 <p>  'modificatorModel' => $modificatorModel</p>
 <p>])</p>
-<p>?></p>
+<p></p>
