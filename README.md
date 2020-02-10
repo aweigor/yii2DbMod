@@ -1,6 +1,13 @@
 Database tools Yii2.
 
+usage:
 
+<p>DBModForm::widget([</p>
+<p>  'columns' => $columns,</p>
+<p>  'model' => $model,</p>
+<p>  'modificatorModel' => $modificatorModel</p>
+<p>])</p>
+<p></p>
 
 
 
@@ -11,12 +18,3 @@ Database tools Yii2.
     <h1 align="center">Yii 2 Basic Project Template</h1>
     <br>
 </p>
-
-usage:
-
-<p>DBModForm::widget([</p>
-<p>  'columns' => $columns,</p>
-<p>  'model' => $model,</p>
-<p>  'modificatorModel' => $modificatorModel</p>
-<p>])</p>
-<p></p>
